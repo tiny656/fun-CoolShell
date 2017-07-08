@@ -1,6 +1,6 @@
 # CoolShell puzzle game 解题报告
 
-----
+---
 
 ### 游戏地址: [fun.coolshell.cn](http://fun.coolshell.cn)
 
