@@ -1,0 +1,8 @@
+2, 3, 6, 18, 108, ?
+X = 1944
+
+What is the meaning of life, the universe and everything? 
+生命、宇宙以及任何事情的终极答案
+Y = 42
+
+X*Y = 81648.html

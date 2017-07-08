@@ -1,0 +1,1 @@
+openssl enc -aes-128-cbc -a -d -pass pass:zWp8LGn01wxJ7 -in in.txt -out answers.txt
